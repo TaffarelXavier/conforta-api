@@ -1,0 +1,88 @@
+{
+    "informacao": [
+
+        {
+            "id": 1,
+            "titulo": "Sobre a histerectomia",
+            "imagem": "../assets/images/versão 5.png",
+            "conteudo": "É a cirurgia de remoção do útero, para tratar leiomiomas uterinos e acontece por via vaginal e abdominal. Ela pode ser conservadora, em que há a preservação das funções do órgão ou  radical, em que permanece apenas o colo do útero ou a retirada total. Corresponde ao tratamento definitivo para sangramento uterino intenso (uma das principais queixas) e geralmente é indicado após falhas de outras terapias. Apesar do risco inerente a toda cirurgia, ela está relacionada a altas taxas de satisfação."
+        },
+        {
+            "id": 2,
+            "titulo": "Ansiedade",
+            "imagem": "../assets/images/versão 5.png",
+            "conteudo": "É um sentimento considerado positivo quando funciona como agente motivador para a solução do problema, porém quando apresenta efeito muito intenso, prolongado e desproporcional à situação da internação e cirurgia, causa muito sofrimento e dificuldade de adaptação. Pode ser manifestada de várias forma durante a hospitalização: - Sintomas físicos: palpitações, sensação de formigamento, tremores, boca seca, sudorese, sensação de falta de ar. - Sintomas comportamentais: agitação, insônia, medo, evitação, fuga. - Sintomas cognitivos: apreensão, preocupação, irritabilidade, desatenção."
+        },
+        {
+            "id": 3,
+            "titulo": "Sexualidade",
+            "imagem": "../assets/images/versão 5.png",
+            "conteudo": "Possui um conceito amplo e não está associada apenas ao coito.  Está relacionada à expressão dos desejos, às escolhas, aos sentimentos, à comunicação com o outro, ou seja, tudo aquilo que somos capazes de sentir e expressar. A mulher pode ter várias formas de expressar sua sexualidade, por isso é fundamental o conhecimento do próprio corpo, para se apropriar sobre o que pode interferir na sua resposta sexual e identificar os mitos e preconceitos que envolvem essa dimensão tão importante para sua qualidade de vida."
+        }
+
+    ],
+    "mitos-verdades": [{
+            "id": 1,
+            "fase": 1,
+            "perguntas": [{
+                    "id": "1",
+                    "titulo": "VOCÊ VAI COMEÇAR A MENOPAUSA LOGO APÓS A CIRURGIA",
+                    "eMito": "1",
+                    "informacao": "A menos que seus ovários sejam removidos, uma histerectomia não causará a menopausa."
+                },
+                {
+                    "id": "2",
+                    "titulo": "VOCÊ NÃO VAI MAIS QUERER TER RELAÇÃO SEXUAL",
+                    "eMito": "1",
+                    "informacao": "Isso não afeta sua vida sexual! Os hormônios responsáveis pelo seu desejo sexual são produzidos pelos  ovários. Então, só afetaria diretamente caso você precisasse removê-los, também. A sua vida sexual relaciona-se a percepção positiva de si e da/ na relação, ao contato, intimidade e autoaceitação"
+                },
+                {
+                    "id": "3",
+                    "titulo": "É SEMPRE UMA GRANDE CIRURGIA COM UMA RECUPERAÇÃO DIFÍCIL",
+                    "eMito": "1",
+                    "informacao": "O tempo de recuperação varia de acordo com o tipo de histerectomia. Mas o tempo de recuperação geralmente não passa de seis semanas"
+                },
+                {
+                    "id": "4",
+                    "titulo": "VOCÊ VAI TER QUE FICAR DE CAMA POR SEMANAS",
+                    "eMito": "1",
+                    "informacao": "Movimentar-se após a cirurgia é melhor para sua saúde. Mas sem grandes esforços ou prática de esportes nos primeiros 2 meses, hein!"
+                },
+                {
+                    "id": "5",
+                    "titulo": "A HISTERECTOMIA VAI GERAR A QUEDA DA VAGINA PARA FORA",
+                    "eMito": "Depende",
+                    "informacao": "Ele pode realmente tratar ou ajudar a prevenir o prolapso vaginal. Prolapso vaginal é quando os músculos e tecidos em torno de sua vagina ficam fracos ou rasgados, fazendo com que sua vagina desça de seu lugar habitual. Em alguns casos, o útero pode sair da abertura da vagina"
+                },
+                {
+                    "id": "6",
+                    "titulo": "VOCÊ VAI TER UMA GRANDE CICATRIZ",
+                    "eMito": "Depende",
+                    "informacao": "Depende do tipo de histerectomia, mas vai curar independentemente. Se você precisa de uma histerectomia abdominal, no entanto, é provável que você tenha uma cicatriz após a cirurgia nessa região. Às vezes, os cirurgiões fazem uma incisão vertical, enquanto outras vezes usam uma incisão mais horizontal ou do tipo biquíni. Não importa que tipo de cicatriz você tenha, existem opções de tratamento , tanto dermatológicas como naturais, para tentar minimizar a aparência de cicatrizes"
+                },
+                {
+                    "id": "7",
+                    "titulo": "A HISTERECTOMIA É A MELHOR OPÇÃO ?",
+                    "eMito": "Sim",
+                    "informacao": "A remoção do útero deve ser o último recurso em muitos casos. Porém, mulheres com sangramento perigoso, dores intensas e frequentes e com suspeita ou confirmação de câncer uterino, provavelmente precisam de uma histerectomia imediatamente. Mas em muitos casos, seu médico pode recomendar outros tratamentos, porém quando há falha no tratamento medicamentoso e manutenção dos sintomas e prejuízos à saúde, a histerectomia é a opção mais viável e eficaz a longo prazo para as mulheres"
+                },
+                {
+                    "id": "8",
+                    "titulo": "VOCÊ VAI SER MENOS MULHER DEPOIS QUE RETIRAR O ÚTERO",
+                    "eMito": "1",
+                    "informacao": "A percepção individual sobre o “ ser mulher’’ está atrelada aos significados, papéis, crenças e experiências de vida que compõem a história de cada uma. Ser mulher não está atrelado a um órgão do corpo humano, mas a um conjunto de ideias e atitudes sobre si mesma em diversos contextos, que podem ou não contribuir para agregar valor a tudo que representa o femenino em uma dada cultura"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "fase": 2,
+            "perguntas": []
+        },
+        {
+            "id": 3,
+            "fase": 3,
+            "perguntas": []
+        }
+    ]
+}
